@@ -1,0 +1,183 @@
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'we': 1, 'have': 1, 'invested': 1, 'record': 1, 'funding': 1, 'in': 1, 'protecting': 1, 'our': 1, 'environment': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'since': 1, '1988': 1, ',': 1, 'congress': 1, 'has': 1, 'raised': 1, 'its': 1, 'own': 1, 'salary': 1, '15': 1, 'times': 1, 'to': 1, 'reflect': 1, 'rising': 1, 'costs': 1, '.': 1, 'but': 1, 'the': 1, 'minimum': 1, 'wage': 1, 'only': 1, 'three': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'aids': 1, 'was': 1, 'transmitted': 1, 'to': 1, 'humans': 1, 'because': 1, 'one': 1, 'guy': 1, 'had': 1, 'sex': 1, 'with': 1, 'a': 1, 'monkey': 1, 'and': 1, 'then': 1, 'started': 1, 'having': 1, 'men': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'blocking': 1, 'travel': 1, 'from': 1, 'countries': 1, 'with': 1, 'ebola': 1, 'should': 1, 'be': 1, 'possible': 1, 'because': 1, 'president': 1, 'barack': 1, 'obama': 1, 'has': 1, 'sealed': 1, 'off': 1, 'israel': 1, 'in': 1, 'the': 1, 'past': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'94': 1, 'percent': 1, 'of': 1, 'those': 1, 'that': 1, 'are': 1, 'employed': 1, 'by': 1, 'the': 1, 'department': 1, 'education': 1, 'at': 1, 'federal': 1, 'level': 1, 'were': 1, 'deemed': 1, 'as': 1, 'nonessential': 1, 'employees': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'casey': 1, 'weinstein': 1, ':': 1, 'no': 1, 'faith': 1, 'in': 1, 'our': 1, 'military': 1, '...': 1, 'when': 1, 'some': 1, 'of': 1, 'cadets': 1, 'wanted': 1, 'to': 1, 'watch': 1, 'a': 1, 'religious': 1, 'film': 1, ',': 1, 'sued': 1, 'the': 1, 'u': 1, '.': 1, 's': 1, 'soldiers': 1, '?': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'she': 1, 'has': 1, 'quadrupled': 1, 'agents': 1, 'to': 1, 'secure': 1, 'our': 1, 'border': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'julie': 1, 'parrish': 1, 'wants': 1, 'to': 1, 'add': 1, 'a': 1, 'sales': 1, 'tax': 1, 'everything': 1, 'we': 1, 'need': 1, 'buy': 1, 'including': 1, 'food': 1, ',': 1, 'clothing': 1, 'medicine': 1, 'and': 1, 'school': 1, 'supplies': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'gubernatorial': 1, 'candidate': 1, 'clay': 1, 'pell': 1, 'hasnt': 1, 'spent': 1, 'a': 1, 'dime': 1, 'on': 1, 'advertising': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'more': 1, 'than': 1, '50': 1, 'percent': 1, 'of': 1, 'those': 1, 'people': 1, 'getting': 1, 'minimum': 1, 'wage': 1, 'in': 1, 'this': 1, 'state': 1, 'are': 1, 'high': 1, 'school': 1, 'students': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'if': 1, 'you': 1, 'survey': 1, ',': 1, 'most': 1, '(': 1, 'north': 1, 'carolina': 1, ')': 1, 'democrats': 1, 'also': 1, 'agree': 1, 'with': 1, 'our': 1, 'election': 1, 'laws': 1, 'and': 1, 'voter': 1, 'id': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'america': 1, 'used': 1, 'to': 1, 'be': 1, 'the': 1, 'third': 1, 'easiest': 1, 'country': 1, 'get': 1, 'established': 1, 'in': 1, 'a': 1, 'business': 1, '.': 1, 'its': 1, 'now': 1, 'number': 1, '17': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'public': 1, 'support': 1, 'for': 1, 'abortion': 1, 'is': 1, 'actually': 1, 'going': 1, 'down': 1, 'a': 1, 'little': 1, 'bit': 1, ',': 1, 'polls': 1, 'show': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'students': 1, 'in': 1, 'fla': 1, '.': 1, 'high': 1, 'school': 1, 'forced': 1, 'to': 1, 'recite': 1, 'islamic': 1, 'prayer': 1, ',': 1, 'make': 1, 'rugs': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'sayssenate': 1, 'republicans': 1, 'are': 1, 'following': 1, 'a': 1, 'longstanding': 1, 'tradition': 1, 'of': 1, 'not': 1, 'filling': 1, 'vacancies': 1, 'on': 1, 'the': 1, 'supreme': 1, 'court': 1, 'in': 1, 'middle': 1, 'presidential': 1, 'election': 1, 'year': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'there': 1, 'are': 1, 'more': 1, 'atheists': 1, 'in': 1, 'the': 1, 'country': 1, 'right': 1, 'now': 1, 'than': 1, 'jews': 1, ',': 1, 'muslims': 1, 'hindus': 1, 'and': 1, 'buddhists': 1, 'combined': 1, 'doubled': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'when': 1, 'was': 1, 'the': 1, 'last': 1, 'time': 1, 'you': 1, 'saw': 1, 'a': 1, 'chevrolet': 1, 'in': 1, 'japan': 1, '?': 1, 'it': 1, 'doesnt': 1, 'exist': 1, ',': 1, 'folks': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'powerful': 1, 'houston': 1, 'democrats': 1, 'sylvia': 1, 'garcia': 1, '(': 1, 'democrat': 1, 'county': 1, 'commissioner': 1, 'in': 1, 'harris': 1, ')': 1, 'and': 1, 'elyse': 1, 'lanie(': 1, 'r': 1, 'wife': 1, 'of': 1, 'the': 1, 'former': 1, 'liberal': 1, 'mayor': 1, 'bob': 1, 'lanier': 1, 'sponsored': 1, 'a': 1, 'fundraiser': 1, 'for': 1, 'speaker': 1, 'joe': 1, 'straus': 1, 'with': 1, 'numerous': 1, 'officials': 1, 'high-ranking': 1, 'union': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'weve': 1, 'caught': 1, 'iran': 1, 'cheating': 1, 'on': 1, 'the': 1, 'interim': 1, '(': 1, 'nuclear': 1, ')': 1, 'deal': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'by': 1, 'the': 1, 'year': 1, '2015': 1, '(': 1, 'medicaid': 1, 'will': 1, ')': 1, 'take': 1, 'up': 1, 'half': 1, 'our': 1, 'budget': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'scott': 1, 'brown': 1, 'co-sponsored': 1, 'legislationto': 1, 'let': 1, 'employers': 1, 'deny': 1, 'women': 1, 'coverage': 1, 'formammograms': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'nazi': 1, 'imagery': 1, '[was': 1, 'used]': 1, 'by': 1, 'the': 1, 'block': 1, 'for': 1, 'governor': 1, 'campaign': 1, 'to': 1, 'describe': 1, 'supporters': 1, 'of': 1, 'allan': 1, 'fung': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'a': 1, 'man': 1, 'opted': 1, 'out': 1, 'of': 1, 'obamacare': 1, 'after': 1, 'the': 1, 'marketplace': 1, 'launched': 1, 'on': 1, 'oct': 1, '.': 1, '1': 1, ',': 1, '2013': 1, 'and': 1, 'was': 1, 'informed': 1, 'he': 1, 'owed': 1, '$4': 1, '000': 1, 'fine': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'multnomah': 1, 'countys': 1, 'food': 1, 'action': 1, 'plan': 1, 'clearly': 1, 'plans': 1, 'to': 1, 'disrupt': 1, 'the': 1, 'free': 1, 'market': 1, 'system': 1, 'in': 1, 'terms': 1, 'of': 1, 'choices': 1, 'making': 1, 'it': 1, 'harder': 1, 'and': 1, 'more': 1, 'expensive': 1, 'for': 1, 'many': 1, 'residents': 1, 'eat': 1, 'their': 1, 'choice': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'four': 1, 'times': 1, ',': 1, 'i': 1, 'said': 1, 'he': 1, '(': 1, 'john': 1, 'mccain': 1, ')': 1, 'is': 1, 'a': 1, 'hero': 1, 'but': 1, 'you': 1, 'know': 1, '...': 1, 'people': 1, 'choose': 1, 'selective': 1, 'pieces': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'unemployment': 1, 'in': 1, 'ohio': 1, 'is': 1, 'significantly': 1, 'higher': 1, 'than': 1, 'the': 1, 'rate': 1, 'states': 1, 'which': 1, 'are': 1, 'not': 1, 'forced': 1, 'union': 1, 'and': 1, 'its': 1, 'always': 1, 'been': 1, 'that': 1, 'way': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'austin': 1, 'mayoral': 1, 'candidate': 1, 'mike': 1, 'martinez': 1, 'takes': 1, 'corporate': 1, 'money': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'eighty-five': 1, 'percent': 1, '.': 1, 'of': 1, 'rhode': 1, 'island': 1, 'tax': 1, 'returns': 1, 'that': 1, 'were': 1, 'filed': 1, 'for': 1, 'the': 1, 'year': 1, '2010': 1, 'from': 1, 'individuals': 1, 'who': 1, 'earned': 1, '$30': 1, ',': 1, '000': 1, 'or': 1, 'less': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'the': 1, 'denver': 1, 'post': 1, 'has': 1, 'actually': 1, 'hired': 1, 'an': 1, 'editor': 1, 'to': 1, 'promote': 1, 'pot': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'the': 1, 'southwest': 1, 'florida': 1, 'water': 1, 'management': 1, 'district': 1, 'has': 1, '$850': 1, 'million': 1, 'in': 1, 'reserves': 1, ',': 1, 'enough': 1, 'money': 1, 'savings': 1, 'to': 1, 'run': 1, 'without': 1, 'levying': 1, 'taxes': 1, 'for': 1, 'more': 1, 'than': 1, 'two': 1, 'years': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'eliminating': 1, 'the': 1, 'state': 1, 'tax': 1, 'on': 1, 'health': 1, 'savings': 1, 'accounts': 1, 'will': 1, 'make': 1, 'it': 1, 'easier': 1, 'for': 1, 'small': 1, 'business': 1, 'owners': 1, 'to': 1, 'provide': 1, 'insurance': 1, 'their': 1, 'employees': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'president': 1, 'barack': 1, 'obama': 1, 'promised': 1, 'he': 1, 'would': 1, 'cut': 1, 'the': 1, 'deficit': 1, 'in': 1, 'half': 1, ',': 1, 'but': 1, 'instead': 1, 'will': 1, 'at': 1, 'least': 1, 'double': 1, 'it': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'rob': 1, 'portman': 1, 'voted': 1, 'for': 1, 'the': 1, 'bipartisan': 1, 'bill': 1, 'to': 1, 'affirm': 1, 'climate': 1, 'change': 1, 'is': 1, 'real': 1, ',': 1, 'humans': 1, 'significantly': 1, 'contribute': 1, 'it': 1, 'and': 1, 'needs': 1, 'be': 1, 'addressed': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'joe': 1, 'kyrillos': 1, 'voted': 1, 'to': 1, 'raid': 1, 'the': 1, 'states': 1, 'pension': 1, 'funds': 1, 'by': 1, '$2': 1, '.': 1, '8': 1, 'billion': 1, 'that': 1, 'is': 1, 'costing': 1, 'new': 1, 'jersey': 1, 'taxpayers': 1, 'still': 1, 'today': 1, 'tune': 1, 'of': 1, 'nearly': 1, '$15': 1, 'dollars': 1, 'repay': 1, 'money': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'john': 1, 'mccain': 1, 'said': 1, '"': 1, 'he': 1, 'wouldn': 1, "'": 1, 't': 1, 'even': 1, 'sit': 1, 'down': 1, 'with': 1, 'the': 1, 'government': 1, 'of': 1, 'spain': 1, ',': 1, 'a': 1, 'nato': 1, 'ally': 1, 'that': 1, 'has': 1, 'troops': 1, 'in': 1, 'afghanistan': 1, 'us': 1, 'now': 1, '."': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'under': 1, 'greg': 1, 'abbott': 1, ',': 1, 'texas': 1, 'four-year-olds': 1, 'would': 1, 'be': 1, 'forced': 1, 'to': 1, 'undergo': 1, 'standardized': 1, 'tests': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'since': 1, 'mr': 1, '.': 1, 'fosters': 1, 'been': 1, 'mayor': 1, ',': 1, 'we': 1, 'have': 1, 'less': 1, 'small': 1, 'businesses': 1, 'in': 1, 'the': 1, 'city': 1, 'of': 1, 'st': 1, 'petersburg': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'newly': 1, 'elected': 1, 'republican': 1, 'senators': 1, 'sign': 1, 'pledge': 1, 'to': 1, 'eliminate': 1, 'food': 1, 'stamp': 1, 'program': 1, 'in': 1, '2015': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'florida': 1, 'was': 1, 'the': 1, 'only': 1, 'state': 1, 'during': 1, 'my': 1, 'eight': 1, 'years': 1, 'to': 1, 'go': 1, 'from': 1, 'aa': 1, 'aaa': 1, 'in': 1, 'its': 1, 'bond': 1, 'rating': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'obamacare': 1, 'isnt': 1, 'helping': 1, 'anyone': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'why': 1, 'do': 1, 'we': 1, 'have': 1, 'automatic': 1, 'citizenship': 1, 'upon': 1, 'birth': 1, '?': 1, 'were': 1, 'the': 1, 'only': 1, 'country': 1, 'in': 1, 'world': 1, 'that': 1, 'has': 1, 'it': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'the': 1, 'hollywood': 1, 'celebrities': 1, 'endorsing': 1, 'hillary': 1, 'clinton': 1, 'are': 1, 'in': 1, 'many': 1, 'cases': 1, 'that': 1, 'arent': 1, 'very': 1, 'hot': 1, 'anymore': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'before': 1, 'congress': 1, ',': 1, '(': 1, 'tom': 1, ')': 1, 'cotton': 1, 'got': 1, 'paid': 1, 'handsomely': 1, 'working': 1, 'for': 1, 'insurance': 1, 'companies': 1, 'and': 1, 'corporate': 1, 'interests': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'it': 1, 'will': 1, 'cost': 1, '$50': 1, ',': 1, '000': 1, 'per': 1, 'enrollee': 1, 'in': 1, 'obamacare': 1, 'over': 1, 'the': 1, 'next': 1, '10': 1, 'years': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'according': 1, 'to': 1, 'hud': 1, ',': 1, 'it': 1, 'is': 1, 'patently': 1, 'unfair': 1, 'and': 1, 'socially': 1, 'unjust': 1, 'that': 1, 'wealthy': 1, 'people': 1, 'can': 1, 'live': 1, 'in': 1, 'an': 1, 'exclusive': 1, 'neighborhood': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'members': 1, 'of': 1, 'congress': 1, 'can': 1, 'retire': 1, 'with': 1, 'the': 1, 'same': 1, 'pay': 1, 'after': 1, 'only': 1, 'one': 1, 'term': 1, 'in': 1, 'office': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'the': 1, 'next': 1, 'state': 1, 'budget': 1, 'will': 1, 'begin': 1, 'with': 1, 'a': 1, 'surplus': 1, 'of': 1, 'over': 1, 'half': 1, 'billion': 1, 'dollars': 1, '--': 1, '$535': 1, 'million': 1, 'to': 1, 'be': 1, 'exact': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'under': 1, 'governor': 1, 'crist': 1, ',': 1, '3': 1, '000': 1, 'teachers': 1, 'laid': 1, 'off': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'president': 1, 'obama': 1, 'funneled': 1, '$716': 1, 'billion': 1, 'out': 1, 'of': 1, 'medicare': 1, 'at': 1, 'the': 1, 'expense': 1, 'elderly': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'saysmichele': 1, 'bachmann': 1, 'said': 1, 'on': 1, 'fox': 1, 'news': 1, ',': 1, 'this': 1, 'country': 1, 'could': 1, 'use': 1, 'a': 1, 'president': 1, 'like': 1, 'benjamin': 1, 'franklin': 1, 'again': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'the': 1, 'president': 1, 'came': 1, 'in': 1, 'and': 1, 'campaigned': 1, 'against': 1, 'me': 1, '12': 1, 'times': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'the': 1, 'most': 1, 'popular': 1, 'name': 1, 'is': 1, 'no': 1, 'longer': 1, 'john': 1, 'or': 1, 'steven': 1, '.': 1, 'its': 1, 'jose': 1, ',': 1, 'camilo': 1, 'and': 1, 'maria': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'by': 1, 'allowing': 1, 'brewpubs': 1, 'to': 1, 'sell': 1, 'beer': 1, ',': 1, 'georgia': 1, 'could': 1, 'become': 1, 'like': 1, 'mexico': 1, 'with': 1, 'only': 1, 'a': 1, 'couple': 1, 'of': 1, 'manufacturers': 1, 'controlling': 1, 'all': 1, 'aspects': 1, 'market': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'did': 1, 'you': 1, 'know': 1, 'that': 1, 'if': 1, 'accepted': 1, 'the': 1, 'districts': 1, 'proposal': 1, 'today': 1, 'would': 1, 'have': 1, 'no': 1, 'pay': 1, 'increase': 1, 'for': 1, '4': 1, 'years': 1, '?': 1, 'seven': 1, 'of': 1, 'frozen': 1, 'wages': 1, '=': 1, 'disrespect': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'a': 1, 'car': 1, 'driving': 1, 'former': 1, 'university': 1, 'of': 1, 'missouri': 1, 'system': 1, 'president': 1, 'tim': 1, 'wolfe': 1, 'ran': 1, 'through': 1, 'the': 1, 'students': 1, ',': 1, 'hit': 1, 'one': 1, 'them': 1, 'at': 1, 'mu': 1, 'homecoming': 1, 'parade': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, '23': 1, 'percent': 1, 'of': 1, 'ninth': 1, 'graders': 1, 'in': 1, 'newark': 1, 'will': 1, 'graduate': 1, 'with': 1, 'a': 1, 'high': 1, 'school': 1, 'diploma': 1, 'four': 1, 'years': 1, 'and': 1, 'we': 1, 'spend': 1, '$100': 1, ',': 1, '000': 1, 'on': 1, 'their': 1, 'education': 1, 'those': 1, 'more': 1, 'than': 1, 'is': 1, 'spent': 1, 'any': 1, 'other': 1, 'set': 1, 'students': 1, 'the': 1, 'united': 1, 'states': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'says': 1, 'less': 1, 'than': 1, 'half': 1, 'of': 1, '1': 1, 'percent': 1, 'all': 1, 'the': 1, 'texas': 1, 'legislators': 1, 'who': 1, 'ever': 1, 'served': 1, 'draw': 1, 'a': 1, 'benefit': 1, 'from': 1, 'pensions': 1, 'tied': 1, 'to': 1, 'salaries': 1, 'state': 1, 'district': 1, 'judges': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'i': 1, 'havent': 1, 'really': 1, 'proposed': 1, '(': 1, 'phasing': 1, 'out': 1, 'aid': 1, 'to': 1, 'israel': 1, ')': 1, 'in': 1, 'the': 1, 'past': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'one': 1, 'of': 1, 'george': 1, 'soros': 1, 'companies': 1, 'has': 1, 'provided': 1, 'some': 1, 'the': 1, '(': 1, 'voting': 1, ')': 1, 'machines': 1, 'for': 1, 'states': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'and': 1, 'the': 1, 'revenue': 1, 'generated': 1, 'by': 1, 'drilling': 1, 'off': 1, 'virginias': 1, 'coast': 1, '?': 1, '$40': 1, 'million': 1, 'over': 1, '10': 1, 'years': 1, '.': 1}
+
+false positive => predicted: REAL => ground truth: FAKE
+ {'the': 1, 'claim': 1, 'that': 1, '97': 1, 'percent': 1, 'of': 1, 'scientists': 1, 'believe': 1, 'humans': 1, 'are': 1, 'causingclimate': 1, 'change': 1, 'has': 1, 'been': 1, 'debunked': 1, 'by': 1, 'head': 1, 'united': 1, 'nations': 1, 'intergovernmental': 1, 'panel': 1, 'on': 1, 'climate': 1, '.': 1, 'number': 1, 'was': 1, 'pulled': 1, 'out': 1, 'thin': 1, 'air': 1}
